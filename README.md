@@ -1,3 +1,3 @@
 # netkerofxiaoye.github.io
-个人博客网站及其管理系统
+个人博客
 https://netkerofxiaoye.github.io/
