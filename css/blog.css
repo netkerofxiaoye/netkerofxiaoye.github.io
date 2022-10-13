@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Microsoft Yahei','微软雅黑',Arial,'Hiragino Sans GB','宋体';
-  color: #555;
+  color: black;
 }
 
 h1, .h1,
@@ -36,7 +36,7 @@ h6, .h6 {
  */
 
 .blog-masthead {
-  background-color: #019875;
+  background-color: #2a6496;
   position:fixed;
   width: 100%;
   z-index:999;
@@ -60,7 +60,7 @@ h6, .h6 {
 
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
-  color: #fff;
+  color: black;
 }
 .blog-nav .active:after {
   position: absolute;
@@ -93,7 +93,7 @@ h6, .h6 {
 }
 .blog-description {
   font-size: 20px;
-  color: #999;
+  color: black;
 }
 
 
@@ -113,7 +113,7 @@ h6, .h6 {
 }
 .sidebar-module-inset {
   padding: 15px;
-  background-color: #f5f5f5;
+  background-color: black;
   border-radius: 4px;
 }
 .sidebar-module-inset p:last-child,
@@ -150,7 +150,7 @@ h6, .h6 {
 }
 .blog-post-meta {
   margin-bottom: 20px;
-  color: #999;
+  color: black;
 }
 
 
