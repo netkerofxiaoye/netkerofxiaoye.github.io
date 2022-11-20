@@ -1,26 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="246b076c-22d2-4b3e-aee5-1ba13586c4f6" name="Changes" comment="" />
+    <list default="true" id="246b076c-22d2-4b3e-aee5-1ba13586c4f6" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23RllUz34ruy4Xb9QrSIeUzgpu0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Netker/Documents/GitHub/netkerofxiaoye.github.io/image&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io\image" />
+      <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io" />
+      <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io\js" />
+      <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,6 +55,13 @@
       <option name="presentableId" value="Default" />
       <updated>1641704931133</updated>
       <workItem from="1641704933250" duration="1107000" />
+      <workItem from="1665622241824" duration="2477000" />
+      <workItem from="1665624781312" duration="3908000" />
+      <workItem from="1667900807387" duration="445000" />
+      <workItem from="1667901963018" duration="69000" />
+      <workItem from="1667902131961" duration="616000" />
+      <workItem from="1667997451084" duration="3000" />
+      <workItem from="1668914249247" duration="575000" />
     </task>
     <servers />
   </component>
