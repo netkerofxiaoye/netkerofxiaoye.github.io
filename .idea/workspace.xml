@@ -25,22 +25,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Netker/Documents/GitHub/netkerofxiaoye.github.io/image&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/netker/Documents/GitHub/netkerofxiaoye.github.io/img",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\netker\Documents\GitHub\netkerofxiaoye.github.io\img" />
+      <recent name="C:\Users\netker\Documents\GitHub\netkerofxiaoye.github.io" />
       <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io\image" />
       <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io" />
       <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io\js" />
-      <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Netker\Documents\GitHub\netkerofxiaoye.github.io" />
@@ -62,6 +63,7 @@
       <workItem from="1667902131961" duration="616000" />
       <workItem from="1667997451084" duration="3000" />
       <workItem from="1668914249247" duration="575000" />
+      <workItem from="1676367247064" duration="1490000" />
     </task>
     <servers />
   </component>
