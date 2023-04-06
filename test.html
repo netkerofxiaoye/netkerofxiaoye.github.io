@@ -5,7 +5,7 @@
     <title>Apologize</title>
     <style type="text/css">
         p {
-            color: black;
+            color: rgb(25,25,112);
             font-size: 50px;
             display: block;
             position: absolute;
@@ -51,15 +51,15 @@
 
     </style>
 </head>
-    <body>
+    <body style="background-color:#87CEEB">
     <div class="app">
-        <p id="question">sorry dsy,pardon and reconcile with XYJ?<br>
-          <a > 在吗，和个好？</a>
+        <p id="question">Sorry DSY,Pardon and Reconcile with XYJ?<br>
+          <a > dsy在吗，和个好？</a>
         </p>
       <br>
         <img src="img/cat.jpg">
-        <input type="button" class="yesbtn" id="yes" value="YES"></input>
-        <button id="no" class="nobtn">NO</button>
+        <input type="button" class="yesbtn" id="yes" value="YES(行吧)"></input>
+        <button id="no" class="nobtn">NO(不)</button>
 
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -71,7 +71,7 @@
 
         var noBtn = document.getElementById('no');
         var yesBtn = document.getElementById('yes');
-        var ques = document.getElementById('question');
+        // var ques = document.getElementById('question');
 
         noBtn.addEventListener("click", function () {
             var changeTop = (Math.random() * ($(window).height() - $("button").height()));
@@ -81,7 +81,7 @@
         })
 
         yesBtn.addEventListener("click", function () {
-            var message = "thanks DSY!!!";
+            var message = "欸嘿,Thanks DSY!!!";
             alert(message);
             // ques.innerHTML = "thanks DSY!!!"
 
