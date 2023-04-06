@@ -1,12 +1,91 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>jQuery Pin</title>
+    <meta charset="UTF-8">
+    <title>Apologize</title>
+    <style type="text/css">
+        p {
+            color: black;
+            font-size: 50px;
+            display: block;
+            position: absolute;
+            margin-right: 200px;
+        }
 
-  <meta charset="utf-8">
+        .app {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+        }
+
+        img {
+            height:300px;
+            width: 300px;
+            margin-top:200px;
+            margin-right: 250px;
+        }
+
+        input {
+            position: absolute;
+            cursor: auto;
+            display: flex;
+            margin: 150px 10px;
+            padding: 10px 30px;
+            background-color: lightgreen;
+        }
+
+        .yesbtn {
+            left: 200px;
+        }
+
+        button {
+            position: absolute;
+            display: flex;
+            cursor: auto;
+            margin: 300px 100px;
+            padding: 10px 30px;
+            background-color: red;
+        }
 
 
+    </style>
 </head>
-<body>
+    <body>
+    <div class="app">
+        <p id="question">sorry dsy,pardon and reconcile with XYJ?<br>
+          <a > 在吗，和个好？</a>
+        </p>
+      <br>
+        <img src="img/cat.jpg">
+        <input type="button" class="yesbtn" id="yes" value="YES"></input>
+        <button id="no" class="nobtn">NO</button>
 
-</body>
-</html>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    </body>
+
+    <script type="text/javascript">
+
+
+        var noBtn = document.getElementById('no');
+        var yesBtn = document.getElementById('yes');
+        var ques = document.getElementById('question');
+
+        noBtn.addEventListener("click", function () {
+            var changeTop = (Math.random() * ($(window).height() - $("button").height()));
+            var changeLeft = (Math.random() * ($(window).width() - $("button").width()));
+            $("button").css("margin-top", changeTop + "px");
+            $("button").css("margin-left", changeLeft + "px");
+        })
+
+        yesBtn.addEventListener("click", function () {
+            var message = "thanks DSY!!!";
+            alert(message);
+            // ques.innerHTML = "thanks DSY!!!"
+
+          window.location.href = "index2.html"
+        })
+    </script>
+    </html>
